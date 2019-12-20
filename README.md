@@ -1,3 +1,5 @@
 # FTMK Proffesional Certificate Management System
 
+Fork From Quek
+
   In FTMK, all the students from cohort 2017/2018 are planned for professional certification training and exam. All the students in FTMK are required to attend at least one of the certificate training or examination. The lecturer will play significant roles to keep track of the students’ certificate status on whether they had completed the payments, completed the training, and attend for the examination. There come problems where one lecturer needs to keep track of one batch of students. This process is tedious and tiring because lecturers are unable to view all the reporting through the paper-based system easily. Besides that, there is no proper management system available for the lecturers to check the status of the student and the certification. FTMK Professional Certificate Management System lays its role by making all the process computerized. By going to the computerized process, we can make the tracking process more flexible and faster as the data is stored in the database. This system is also able to replace the current attendance system to the online attendance system.
